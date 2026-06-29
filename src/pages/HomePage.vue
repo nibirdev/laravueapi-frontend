@@ -42,7 +42,7 @@
 
     <!-- More phases coming soon -->
     <div class="bg-gray-100 rounded-xl p-5 text-center text-gray-400 text-sm">
-      Phase 2 & 3 projects coming soon...
+      Nibir Hossain
     </div>
   </div>
 </template>

@@ -42,7 +42,7 @@
 
     <!-- More phases coming soon -->
     <div class="bg-gray-100 rounded-xl p-5 text-center text-gray-400 text-sm">
-      Nibir Hossain
+      Nibir Hossain -2026
     </div>
   </div>
 </template>
